@@ -16,7 +16,7 @@ All data can later be transferred via **Wi-Fi** to a desktop application for ana
 ---
 
 ## 🧩 System Architecture
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](screenshots/photo_2_2025-10-31_11-58-35.jpg)
 
 ### Workflow
 1. **Arduino + RFID Module (RC522)** reads the card UID.  
