@@ -74,19 +74,20 @@ The Pi can act as a **Wi-Fi hotspot**, allowing the PC to connect directly and d
 | **Languages** | Python (Flask, Tkinter), C/C++ for Arduino |
 | **Database** | SQLite / MySQL |
 | **Communication** | Serial (UART), SPI, HTTP / SFTP (Wi-Fi Transfer) |
-| **Desktop App** | Python + Tkinter / PyQt / Matplotlib (analytics and UI) |
+| **Desktop App** | Python + PHP / HTML & CSS & JS / Matplotlib (analytics and UI) |
 
 ---
 
 ## 🖼️ Screenshots
 | | |
 |--|--|
-| ![MPI Display](screenshots/read-interface.png) | ![Desktop App](screenshots/main-interface.png) |
+| ![Read RFID Interface](screenshots/read-interface.png) | ![Main Interface](screenshots/main-interface.png) |
 
 ---
 
 ## 🎥 Demo Video
-🎬 [Watch Demo on Streamable](your_demo_link_here)
+🎬 [Watch The Device Demo on Streamable](https://streamable.com/vleoxc)
+🎬 [Watch The Desktop App Demo on Streamable](https://streamable.com/vleoxc)
 
 ---
 
@@ -98,9 +99,8 @@ Only the architecture, documentation, and demonstration media are published for 
 
 ## 👤 Author
 **Ali Emad (Asgard OP)**  
-📍 Basra, Iraq  
 💼 Full-stack Developer | IoT & Embedded Systems Designer  
-📧 [aayth8700@gmail] | LinkedIn [your-link]  
+📧 [aayth8700@gmail] 
 
 ---
 
