@@ -62,6 +62,9 @@ The Pi can act as a **Wi-Fi hotspot**, allowing the PC to connect directly and d
 4. Desktop App connects to the Pi via HTTP or SFTP to download DB.  
 5. The app imports data and generates analytics dashboards.
 
+![Architecture Diagram](screenshots/photo_3_2025-10-31_11-58-35.jpg)
+
+
 ---
 
 ## 🧠 Technologies Used
@@ -78,7 +81,7 @@ The Pi can act as a **Wi-Fi hotspot**, allowing the PC to connect directly and d
 ## 🖼️ Screenshots
 | | |
 |--|--|
-| ![MPI Display](screenshots/interface.png) | ![Desktop App](screenshots/pc_dashboard.png) |
+| ![MPI Display](screenshots/read-interface.png) | ![Desktop App](screenshots/pc_dashboard.png) |
 
 ---
 
@@ -97,7 +100,7 @@ Only the architecture, documentation, and demonstration media are published for 
 **Ali Emad (Asgard OP)**  
 📍 Basra, Iraq  
 💼 Full-stack Developer | IoT & Embedded Systems Designer  
-📧 [your.email@example.com] | LinkedIn [your-link]  
+📧 [aayth8700@gmail] | LinkedIn [your-link]  
 
 ---
 
