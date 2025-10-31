@@ -81,7 +81,7 @@ The Pi can act as a **Wi-Fi hotspot**, allowing the PC to connect directly and d
 ## 🖼️ Screenshots
 | | |
 |--|--|
-| ![MPI Display](screenshots/read-interface.png) | ![Desktop App](screenshots/pc_dashboard.png) |
+| ![MPI Display](screenshots/read-interface.png) | ![Desktop App](screenshots/main-interface.png) |
 
 ---
 
