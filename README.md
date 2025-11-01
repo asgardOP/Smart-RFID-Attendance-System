@@ -13,6 +13,11 @@ Each RFID card is linked to a student or employee in the database.
 When the card is scanned, the system verifies it, records attendance into a daily session, and identifies whether the user arrived on time or late.  
 All data can later be transferred via **Wi-Fi** to a desktop application for analysis and reporting.
 
+## 🎥 Demo Video
+🎬 [Watch The Device Demo on Streamable](https://streamable.com/vleoxc)
+🎬 [Watch The Desktop App Demo on Streamable](https://streamable.com/4embt4)
+
+
 ---
 
 ## 🧩 System Architecture
@@ -82,12 +87,6 @@ The Pi can act as a **Wi-Fi hotspot**, allowing the PC to connect directly and d
 | | |
 |--|--|
 | ![Read RFID Interface](screenshots/read-interface.png) | ![Main Interface](screenshots/main-interface.png) |
-
----
-
-## 🎥 Demo Video
-🎬 [Watch The Device Demo on Streamable](https://streamable.com/vleoxc)
-🎬 [Watch The Desktop App Demo on Streamable](https://streamable.com/vleoxc)
 
 ---
 
