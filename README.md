@@ -98,17 +98,8 @@ Only the architecture, documentation, and demonstration media are published for 
 
 ## 👤 Author
 **Ali Emad (Asgard OP)**  
-💼 Full-stack Developer | IoT & Embedded Systems Designer  
-📧 [aayth8700@gmail] 
-
----
-
-## 💬 CV Description (English & German)
-**English:**  
-Developed a commercial IoT attendance system using Raspberry Pi and Arduino. Implemented RFID-based card verification, daily session tracking, Wi-Fi data transfer, and desktop analytics software.  
-
-**Deutsch:**  
-Entwickelte ein kommerzielles IoT-Anwesenheitssystem mit Raspberry Pi und Arduino. Implementierung von RFID-Kartenprüfung, täglicher Sessions-Verwaltung, Wi-Fi-Datenübertragung und Desktop-Analyse-Software.
+Full-stack Developer | IoT & Embedded Systems Designer  
+📧 [aayth8700@gmail.com] 
 
 ---
 
